@@ -1,8 +1,10 @@
-### Hi there 👋, Mi nombre es Israel Palomo
+### Hola 👋, mi nombre es Israel Palomo
 
 
 
-![banner](https://user-images.githubusercontent.com/78044199/111065791-d3143600-84bb-11eb-9401-a83fb39c5258.png)
+![headerGitHub](https://user-images.githubusercontent.com/78044199/134818907-43b3a595-678e-4545-9b04-828b3786be94.png)
+
+
 
 #### Desarrollador Y Programador en Tecnologías Web
 ![Desarrollador Y Programador en Tecnologías Web]
