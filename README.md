@@ -2,22 +2,16 @@
 
 ![headerGitHub](https://user-images.githubusercontent.com/78044199/134818907-43b3a595-678e-4545-9b04-828b3786be94.png)
 
-
-
-<div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
-
 <h1> Hola soy Israel Palomo España <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/IsraelPalomo.https://github.com/IsraelPalomo)
 
 </p>
-<div size='20px'> Hi! My name is Israel Palomo España. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Desarrollador Frontend enfocado en tecnologias como HTML5, CSS3, Javascript, Vue.js, Node, MongoDB, Git, Express :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Sobre Mi</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
