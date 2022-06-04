@@ -2,7 +2,7 @@
 
 ![headerGitHub](https://user-images.githubusercontent.com/78044199/134818907-43b3a595-678e-4545-9b04-828b3786be94.png)
 
-<h1> Hola soy Israel Palomo España <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hola soy Israel Palomo España  </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/IsraelPalomo.https://github.com/IsraelPalomo)
